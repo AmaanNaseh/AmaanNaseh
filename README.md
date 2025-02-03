@@ -1,7 +1,3 @@
-![Image](https://github.com/user-attachments/assets/d49bba0c-dc2d-4bac-9cfd-2bc4b67b25b8)
-
-My Expertise/Tech Stack
-
 ## Hi there 👋
 
 ### About Me
@@ -13,6 +9,9 @@ LinkedIn 🌐: https://www.linkedin.com/in/amaan-naseh
 
 ### Achievements
 - Winner of ICAPIE 2024 Best Research/Review Paper Award
+
+### My Expertise/Tech Stack
+![Image](https://github.com/user-attachments/assets/d49bba0c-dc2d-4bac-9cfd-2bc4b67b25b8)
 
 <!--
 - 🔭 I’m currently working on ...
