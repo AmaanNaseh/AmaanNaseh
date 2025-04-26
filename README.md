@@ -8,6 +8,7 @@ Mail 📩: naseh.amaan@gmail.com
 LinkedIn 🌐: https://www.linkedin.com/in/amaan-naseh
 
 ### Achievements
+- HackJMI 2025 Winner
 - Winner of ICAPIE 2024 Best Research/Review Paper Award
 
 ### My Expertise/Tech Stack
