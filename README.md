@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ### About Me
-Student & Free Lancer | B.Tech (Robotics, USAR) | Full Stack Web Developer | ML & Flask Developer
+Full Stack Web Developer | ML & Flask Developer | B.Tech (AR, GGSIPU) | HackJMI 2025 Winner 🏆 | ICAPIE 2024 Winner 🏆 
 
 ### 📫 How to reach me:
 Mail 📩: naseh.amaan@gmail.com
-LinkedIn 🌐: https://www.linkedin.com/in/amaan-naseh
+LinkedIn [in]: https://www.linkedin.com/in/amaan-naseh
+Website 🌐 : https://www.naseh.me
 
 ### Achievements
 - HackJMI 2025 Winner
