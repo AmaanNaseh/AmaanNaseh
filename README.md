@@ -12,7 +12,7 @@ LinkedIn 🌐: https://www.linkedin.com/in/amaan-naseh
 - Winner of ICAPIE 2024 Best Research/Review Paper Award
 
 ### My Expertise/Tech Stack
-![Image](https://github.com/user-attachments/assets/4c451ebf-dd2d-4875-a5cf-d5b29453b8cb)
+<img width="1545" height="136" alt="Image" src="https://github.com/user-attachments/assets/cbee4b45-9a07-495b-8ba3-d90d65093632" />
 
 <!--
 - 🔭 I’m currently working on ...
