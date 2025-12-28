@@ -4,9 +4,9 @@
 Full Stack Web Developer | ML & Flask Developer | B.Tech (AR, GGSIPU) | HackJMI 2025 Winner 🏆 | ICAPIE 2024 Winner 🏆 
 
 ### 📫 How to reach me:
-Mail 📩: naseh.amaan@gmail.com
-LinkedIn [in]: https://www.linkedin.com/in/amaan-naseh
-Website 🌐 : https://www.naseh.me
+- Website 🌐 : https://www.naseh.me
+- LinkedIn ℹ️: https://www.linkedin.com/in/amaan-naseh
+- Mail 📩: naseh.amaan@gmail.com
 
 ### Achievements
 - HackJMI 2025 Winner
