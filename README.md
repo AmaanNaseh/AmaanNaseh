@@ -22,6 +22,7 @@ Full Stack Web Developer | ML & Flask Developer | B.Tech (AR, GGSIPU) | HackJMI 
 ### Achievements
 - HackJMI 2025 Winner
 - Winner of ICAPIE 2024 Best Research/Review Paper Award
+- Winner of Glide 5 Years Challenge, 2023
 
 ---
 
