@@ -1,21 +1,21 @@
 ## Hi there 👋
 
 ### About Me
-Full Stack Web Developer | ML & Flask Developer | B.Tech (AR, GGSIPU) | HackJMI 2025 Winner 🏆 | ICAPIE 2024 Winner 🏆 
+Full Stack Software Developer | B.Tech @GGSIPU'26 
 
 ---
 
 ### 📫 How to reach me:
-- Website 🌐 : https://www.naseh.me
+- Website 🌐 : https://www.amaan-naseh.vercel.app
 - LinkedIn ℹ️: https://www.linkedin.com/in/amaan-naseh
 - Mail 📩: naseh.amaan@gmail.com
 
 ---
 
 ### Top Projects
-- https://www.kisankranti.tech
-- https://www.presyou.tech
-- https://www.edushala.tech
+- https://kisan-kranti.vercel.app
+- https://edushala.vercel.app
+- https://presyou.vercel.app
 
 ---
 
