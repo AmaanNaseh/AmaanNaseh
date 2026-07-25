@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amaan Naseh
 
-### 💻 Full Stack Software Developer | B.Tech @ GGSIPU '26
+### 💻 Full Stack Software Developer
 
 Passionate about building scalable web applications, exploring AI/ML, and solving real-world problems through technology.
 
