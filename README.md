@@ -1,35 +1,56 @@
-  ## Hi there 👋
+# 👋 Hi, I'm Amaan Naseh
 
-### About Me
-Full Stack Software Developer | B.Tech @GGSIPU'26
+### 💻 Full Stack Software Developer | B.Tech @ GGSIPU '26
 
----
-
-### 📫 How to reach me:
-- Website 🌐 : https://www.naseh.me
-- LinkedIn ℹ️: https://www.linkedin.com/in/amaan-naseh
-- Mail 📩: naseh.amaan@gmail.com
+Passionate about building scalable web applications, exploring AI/ML, and solving real-world problems through technology.
 
 ---
 
-### Top 3 Projects
-- https://weldify.vercel.app
-- https://kisan-kranti.vercel.app
-- https://edushala.vercel.app
+## 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Weldify** | Modern welding services platform | 🌐 https://weldify.vercel.app |
+| **Kisan Kranti** | AI-powered agriculture platform | 🌐 https://kisan-kranti.vercel.app |
+| **EduShala** | Learning platform | 🌐 https://edushala.vercel.app |
 
 ---
 
-### Achievements
-- HackJMI 2025 Winner
-- Winner of ICAPIE 2024 Best Research/Review Paper Award
-- Winner of Glide 5 Years Challenge, 2023
+## 🏆 Achievements
+
+- 🥇 Winner — **HackJMI 2025**
+- 🏅 **ICAPIE 2024** Best Research/Review Paper Award
+- 🎉 Winner — **Glide 5 Years Challenge (2023)**
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cpp,python,sklearn,tensorflow,fastapi,flask,mongodb,mysql,postgres,supabase,postman,github,vscode,docker,vercel,netlify,gcp,figma" />
 </p>
 
+---
 
+## 📊 My Journey
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=AmaanNaseh&theme=github-dark&hide_border=true" />
+</p>
+
+
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaanNaseh&theme=github-dark)](https://github.com/AmaanNaseh)
+
+
+
+![Snake animation](https://raw.githubusercontent.com/AmaanNaseh/AmaanNaseh/output/github-contribution-grid-snake-dark.svg)
+
+
+---
+
+## 🌐 Connect with Me
+
+- 🌍 Portfolio: **https://www.naseh.me**
+- 💼 LinkedIn: **https://www.linkedin.com/in/amaan-naseh**
+- 📧 Email: **naseh.amaan@gmail.com**
