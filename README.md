@@ -4,6 +4,8 @@
 
 Passionate about building scalable web applications, exploring AI/ML, and solving real-world problems through technology.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.naseh.me)
+
 <br />
 
 ## 🚀 Featured Projects
@@ -38,6 +40,14 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 
 ## 🌐 Connect with Me
 
-- 🌍 Portfolio: **https://www.naseh.me**
-- 💼 LinkedIn: **https://www.linkedin.com/in/amaan-naseh**
-- 📧 Email: **naseh.amaan@gmail.com**
+<p>  
+  <a href="https://www.linkedin.com/in/amaan-naseh">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+  </a>
+  <a href="mailto:naseh.amaan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="28" />
+  </a>
+  <a href="https://github.com/amaan-naseh">
+    <img src="https://skillicons.dev/icons?i=github" height="28" />
+  </a>
+</p>
