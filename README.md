@@ -6,6 +6,20 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.naseh.me)
 
+<p>
+  <a href="https://www.linkedin.com/in/amaan-naseh">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:naseh.amaan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/amaan-naseh">
+    <img src="https://skillicons.dev/icons?i=github" height="28" />
+  </a>
+</p>
+
 <br />
 
 ## 🚀 Featured Projects
@@ -37,17 +51,3 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 ![Snake animation](https://raw.githubusercontent.com/AmaanNaseh/AmaanNaseh/output/github-contribution-grid-snake.svg)
 
 <br />
-
-## 🌐 Connect with Me
-
-<p>  
-  <a href="https://www.linkedin.com/in/amaan-naseh">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
-  </a>
-  <a href="mailto:naseh.amaan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="28" />
-  </a>
-  <a href="https://github.com/amaan-naseh">
-    <img src="https://skillicons.dev/icons?i=github" height="28" />
-  </a>
-</p>
