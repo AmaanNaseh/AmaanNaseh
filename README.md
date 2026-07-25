@@ -38,14 +38,7 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
   <img height="170" src="https://streak-stats.demolab.com?user=AmaanNaseh&theme=github-dark&hide_border=true" />
 </p>
 
-
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaanNaseh&theme=github-dark)](https://github.com/AmaanNaseh)
-
-
-
 ![Snake animation](https://raw.githubusercontent.com/AmaanNaseh/AmaanNaseh/output/github-contribution-grid-snake.svg)
-
 
 ---
 
