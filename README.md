@@ -1,21 +1,21 @@
 ## Hi there 👋
 
 ### About Me
-Full Stack Software Developer | B.Tech @GGSIPU'26 
+Full Stack Software Developer | B.Tech @GGSIPU'26
 
 ---
 
 ### 📫 How to reach me:
-- Website 🌐 : https://www.amaan-naseh.vercel.app
+- Website 🌐 : https://www.naseh.me
 - LinkedIn ℹ️: https://www.linkedin.com/in/amaan-naseh
 - Mail 📩: naseh.amaan@gmail.com
 
 ---
 
-### Top Projects
+### Top 3 Projects
+- https://weldify.vercel.app
 - https://kisan-kranti.vercel.app
 - https://edushala.vercel.app
-- https://presyou.vercel.app
 
 ---
 
