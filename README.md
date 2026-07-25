@@ -44,7 +44,7 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 
 
 
-![Snake animation](https://raw.githubusercontent.com/AmaanNaseh/AmaanNaseh/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AmaanNaseh/AmaanNaseh/output/github-contribution-grid-snake.svg)
 
 
 ---
