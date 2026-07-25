@@ -26,7 +26,7 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cpp,python,sklearn,tensorflow,fastapi,flask,mongodb,mysql,postgres,supabase,postman,github,vscode,docker,vercel,netlify,gcp,figma" />
 </p>
 
