@@ -1,4 +1,4 @@
-## Hi there 👋
+  ## Hi there 👋
 
 ### About Me
 Full Stack Software Developer | B.Tech @GGSIPU'26
@@ -26,16 +26,10 @@ Full Stack Software Developer | B.Tech @GGSIPU'26
 
 ---
 
-### My Expertise/Tech Stack
-<img width="1545" height="136" alt="Image" src="https://github.com/user-attachments/assets/cbee4b45-9a07-495b-8ba3-d90d65093632" />
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cpp,python,sklearn,tensorflow,fastapi,flask,mongodb,mysql,postgres,supabase,postman,github,vscode,docker,vercel,netlify,gcp,figma" />
+</p>
 
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
