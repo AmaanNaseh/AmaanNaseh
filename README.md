@@ -4,7 +4,7 @@
 
 Passionate about building scalable web applications, exploring AI/ML, and solving real-world problems through technology.
 
-<p align="center">
+<p>
   <a href="https://www.naseh.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
