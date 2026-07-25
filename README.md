@@ -8,7 +8,7 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
   <a href="https://www.naseh.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  
+   
   <a href="https://www.linkedin.com/in/amaan-naseh">
     <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
   </a>
