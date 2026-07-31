@@ -30,7 +30,6 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,cpp,python,sklearn,tensorflow,fastapi,flask,mongodb,mysql,postgres,supabase,postman,github,vscode,docker,vercel,netlify,gcp,figma" />
 </p>
 
-<!--
 <br />
 
 ## 🚀 Featured Projects
@@ -40,15 +39,6 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 | **Weldify** | AI-powered welding analytics and simultion platform | 🌐 https://weldify.vercel.app |
 | **Kisan Kranti** | AI-powered end-to-end Agritech platform | 🌐 https://kisan-kranti.vercel.app |
 | **EduShala** | AI-powered E-Learning platform | 🌐 https://edushala.vercel.app |
-
-<br />
-
-## 🏆 Achievements
-
-- 🥇 Winner — **HackJMI 2025**
-- 🏅 **ICAPIE 2024** Best Research/Review Paper Award
-- 🎉 Winner — **Glide 5 Years Challenge (2023)**
--->
 
 <br />
 
