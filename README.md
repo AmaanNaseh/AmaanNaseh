@@ -32,6 +32,10 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 
 <br />
 
+![Snake animation](https://raw.githubusercontent.com/AmaanNaseh/AmaanNaseh/output/github-contribution-grid-snake.svg)
+
+<br />
+
 ## 🚀 Featured Projects
 
 | Project | Description | Live Demo |
@@ -39,9 +43,5 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 | **Weldify** | AI-powered welding analytics and simultion platform | 🌐 https://weldify.vercel.app |
 | **Kisan Kranti** | AI-powered end-to-end Agritech platform | 🌐 https://kisan-kranti.vercel.app |
 | **EduShala** | AI-powered E-Learning platform | 🌐 https://edushala.vercel.app |
-
-<br />
-
-![Snake animation](https://raw.githubusercontent.com/AmaanNaseh/AmaanNaseh/output/github-contribution-grid-snake.svg)
 
 <br />
