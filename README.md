@@ -38,11 +38,28 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 
 ## 🚀 Featured Projects
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **Weldify** | AI-powered welding analytics and simultion platform | 🌐 https://weldify.vercel.app |
-| **Kisan Kranti** | AI-powered end-to-end Agritech platform | 🌐 https://kisan-kranti.vercel.app |
-| **EduShala** | AI-powered E-Learning platform | 🌐 https://edushala.vercel.app |
+<table align="center" width="100%">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Live Demo</th>
+  </tr>
+  <tr>
+    <td><b>Weldify</b></td>
+    <td>AI-powered welding analytics and simulation platform</td>
+    <td><a href="https://weldify.vercel.app">🌐 Visit</a></td>
+  </tr>
+  <tr>
+    <td><b>Kisan Kranti</b></td>
+    <td>AI-powered end-to-end Agritech platform</td>
+    <td><a href="https://kisan-kranti.vercel.app">🌐 Visit</a></td>
+  </tr>
+  <tr>
+    <td><b>EduShala</b></td>
+    <td>AI-powered E-Learning platform</td>
+    <td><a href="https://edushala.vercel.app">🌐 Visit</a></td>
+  </tr>
+</table>
 
 <br />
 
