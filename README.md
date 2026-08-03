@@ -45,3 +45,5 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 | **EduShala** | AI-powered E-Learning platform | 🌐 https://edushala.vercel.app |
 
 <br />
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AmaanNaseh.AmaanNaseh)
