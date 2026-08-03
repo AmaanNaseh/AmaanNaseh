@@ -46,4 +46,10 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
 
 <br />
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AmaanNaseh.AmaanNaseh)
+<p align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=AmaanNaseh.AmaanNaseh"
+    alt="Visitors"
+    width="150"
+  />
+</p>
