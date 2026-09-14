@@ -17,7 +17,7 @@ Passionate about building scalable web applications, exploring AI/ML, and solvin
     <img src="https://skillicons.dev/icons?i=gmail" height="28" />
   </a>
   
-  <a href="https://github.com/amaan-naseh">
+  <a href="https://github.com/AmaanNaseh">
     <img src="https://skillicons.dev/icons?i=github" height="28" />
   </a>
 </p>
